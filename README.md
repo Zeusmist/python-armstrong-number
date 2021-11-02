@@ -1,6 +1,7 @@
 ## Authors
 
 - [David Erinayo Obidu](https://github.com/Zeusmist/)
+- [Timileyin Bakare](https://github.com/TimileyinBakare)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project solution instructions
